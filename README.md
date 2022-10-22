@@ -6,7 +6,7 @@
 <tr>
 <td valign="top" width="50%">
 
-#### 🏊‍♂️ Weekly Development Breakdown
+  <span>🏊‍♂️ Weekly Development Breakdown</span>
 
 ![light](https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats.svg#gh-light-mode-only)
 
@@ -15,7 +15,7 @@
 </td>
 <td valign="top" width="50%">
 
-#### 🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/master/releases.md" target="_blank">Product Releases</a>
+<span>🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/master/releases.md" target="_blank">Product Releases</a></span>
 
 <!-- recent_releases starts -->
 * <a href='https://github.com/tw93/Pake/releases/tag/V0.6.0' target='_blank'>Pake 双击顶部全屏 / 新应用 RunCode</a> - 2022-10-18
@@ -30,8 +30,7 @@
 <tr>
 <td valign="top" width="50%">
 
-#### 🤾‍♂️ <a href="https://tw93.fun" target="_blank">Recent Blog</a>
-
+<span style="font-weight:600;color:var(--color-fg-default);font-size: 24px;">🤾‍♂️ <a style="font-weight: 600;color: var(--color-fg-default); font-size: 24px;" href="https://tw93.fun" target="_blank">Recent Blog Posts</a></span>
 <!-- blog starts -->
 * <a href='https://tw93.fun/2022-09-09/weekly.html' target='_blank'>潮流周刊 100 期，做了个官网</a> - 2022-09-09
 * <a href='https://tw93.fun/2022-09-09/miaoyan.html' target='_blank'>妙言 - 更适合工程师用的笔记应用</a> - 2022-09-09
@@ -43,7 +42,7 @@
 </td>
 <td valign="top" width="50%">
 
-#### 🩴 <a href="https://weekly.tw93.fun" target="_blank">Trend Weekly</a>
+  <span style="font-size">🩴 <a href="https://weekly.tw93.fun" target="_blank">Trend Weekly</a></span>
 
 <!-- weekly starts -->
 
